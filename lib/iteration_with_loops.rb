@@ -15,4 +15,5 @@ def find_min_in_nested_arrays(src)
     array_minimums[i] = local_min
     i += 1
   end
+  array_minimums
 end
